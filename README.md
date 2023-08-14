@@ -11,7 +11,7 @@ Bitbucket es una plataforma web que proporciona control de versiones y colaborac
 
 2. **GitHub Learning Lab**:
 GitHub Learning Lab es una herramienta educativa ofrecida por GitHub que te permite aprender Git y GitHub de manera práctica. Ofrece cursos interactivos que abordan diferentes aspectos de Git y GitHub, incluyendo el trabajo con ramas. Puedes encontrar cursos específicos sobre cómo crear y gestionar ramas, fusionar cambios y resolver conflictos. Los cursos te guían a través de ejercicios prácticos y proporcionan una experiencia de aprendizaje basada en proyectos reales.
-=======
+
 ## Rama PROYECTOS
 
 [El proyecto clonado](https://github.com/argob/estandares.git) trata de formas de trabajar de la Dirección Nacional de Servicios Digitales de la **República Argentina**.
